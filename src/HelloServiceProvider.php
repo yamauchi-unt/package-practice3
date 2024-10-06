@@ -1,6 +1,6 @@
 <?php
 
-namespace Nasteng\SayHello;
+namespace YamauchiUnt\PackagePractice3;
 
 use Illuminate\Support\Facades\Route;
 use Illuminate\Support\ServiceProvider;

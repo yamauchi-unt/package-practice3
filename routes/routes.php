@@ -1,6 +1,6 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-use Nasteng\SayHello\Http\Controllers\HelloController;
+use YamauchiUnt\PackagePractice3\Http\Controllers\HelloController;
 
 Route::get('/hello', [HelloController::class, 'index']);

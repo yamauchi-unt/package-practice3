@@ -1,6 +1,6 @@
 <?php
 
-namespace Nasteng\SayHello\Http\Controllers;
+namespace YamauchiUnt\PackagePractice3\Http\Controllers;
 
 use Illuminate\Routing\Controller;
 

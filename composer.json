@@ -1,17 +1,17 @@
 {
-    "name": "nasteng/say-hello",
+    "name": "yamauchi-unt/package-practice3",
     "description": "Add hello world automatically",
     "type": "library",
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Nasteng\\SayHello\\": "src/"
+            "YamauchiUnt\\PackagePractice3\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Nasteng\\SayHello\\HelloServiceProvider"
+                "YamauchiUnt\\PackagePractice3\\HelloServiceProvider"
             ]
         }
     }
